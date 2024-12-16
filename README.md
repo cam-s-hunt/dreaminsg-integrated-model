@@ -21,6 +21,11 @@ Please follow the steps below to setup the InfraRisk Integrated Simulation Platf
 ```
 git clone https://github.com/srijithbalakrishnan/dreaminsg-integrated-model.git folder-name
 ```
+1.a. (until I figure the proper "conda way"): 
+
+```
+sudo apt update && sudo apt install build-essential gdal-bin python3-gdal libgdal-dev -y
+```
 
  2. Create a new python virtual environment with all required packages needed to run the simulation platform
 
