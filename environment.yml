@@ -12,7 +12,7 @@ dependencies:
   - ca-certificates
   - certifi=2022.9.14
   - colorama=0.4.5
-  - debugpy=1.6.3=
+  - debugpy=1.6.3
   - decorator=5.1.1
   - entrypoints=0.4
   - executing=1.0.0
@@ -29,12 +29,13 @@ dependencies:
   - mypy_extensions
   - nest-asyncio=1.5.5
   - openssl=1.1.1q
-  - packaging=21.3
+  - packaging=22.0
   - parso=0.8.3
   - pathspec=0.9.0
   - pickleshare=0.7.5
   - pip=22.1.2
   - platformdirs
+  - pyaudio
   - prompt-toolkit
   - psutil=5.9.0
   - pure_eval=0.2.2
@@ -44,7 +45,6 @@ dependencies:
   - python=3.8.13
   - python-dateutil
   - python_abi=3.8
-  - pywin32=303=
   - pyzmq=23.2.0
   - six=1.16.0
   - sqlite=3.39.2
@@ -136,7 +136,6 @@ dependencies:
     - plotly==5.10.0
     - ply==3.11
     - prometheus-client==0.14.1
-    - pyaudio==0.2.13
     - pycparser==2.21
     - pygad==2.18.1
     - pygeos==0.12.0
@@ -150,7 +149,6 @@ dependencies:
     - pyrsistent==0.18.1
     - pysinewave==0.0.6
     - pytz==2022.2.1
-    - pywinpty==2.0.8
     - pyyaml==6.0
     - rasterio==1.2.10
     - rbfopt==4.2.5
